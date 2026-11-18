@@ -1,0 +1,1 @@
+I need the a producer and a consumer where is producer is publisheing the topics in the rabmit mq and the data should be sent to postgres give me the plan for this to do in wsl give me the architecture diagram, step by step process of this project
